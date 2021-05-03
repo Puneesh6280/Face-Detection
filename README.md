@@ -1,6 +1,6 @@
 # Face-Detection
 
-## You must have Open-CV installed
+You must have Open-CV installed
 
 To use this file simply just clone it using
 https://github.com/Puneesh6280/Face-Detection.git
